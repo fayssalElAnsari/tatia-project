@@ -1,3 +1,5 @@
+also in: https://www.kaggle.com/code/fayssalelansari/arabic-tweets-sentiment-analysis
+
 ## The Goal
 
 The goal of this project is to be able to analyse a set of tweets written in Aarbic and determine their sentiments, meaning for each tweet we should be able to tell if it expresses a positive, a negative or a neutral sentiment.
